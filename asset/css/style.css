@@ -1,0 +1,50 @@
+nav.mt-2 ul.nav-sidebar li a:hover{
+	background-color:  rgba(60, 71, 226, 0.5) !important;
+}
+
+.bg-1{
+	background-color: rgb(55, 172, 100);
+}
+.bg-2{
+	background-color: rgba(241,196,15);
+}
+.bg-3{
+	background-color: rgba(253,132,105);
+}
+
+.brand-link
+{
+	margin-top: -55px;
+}
+
+.info{
+	font-size: 13px !important;
+	letter-spacing: 0.2em;
+	margin:-5px;
+	font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.card-icon {
+    font-size: 40px;
+    color: #c4c1e0;
+    margin-bottom: 15px;
+}
+
+h3 {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: hwb(204 58% 20%);
+    color: rgb(238, 238, 238);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
